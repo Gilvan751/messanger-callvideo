@@ -44,7 +44,7 @@ body {
     display:flex;
     align-items: center;
     justify-content: center;
-    margin-top:560px;
+    margin-top:550px;
 }
 
 .rede {
@@ -58,3 +58,8 @@ body {
     margin-bottom: 30px;
 }
 
+.rede1 {
+    display:flex;    
+    justify-content:center ;
+    
+}
