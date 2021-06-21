@@ -44,5 +44,17 @@ body {
     display:flex;
     align-items: center;
     justify-content: center;
-    margin-top:620px;
+    margin-top:560px;
 }
+
+.rede {
+    display:flex;    
+    justify-content:center ;
+    margin-top:35px;
+}
+
+.rede img {
+    padding: 33px;
+    margin-bottom: 30px;
+}
+
